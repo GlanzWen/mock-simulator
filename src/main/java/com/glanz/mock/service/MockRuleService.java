@@ -1,4 +1,4 @@
-package com.example.mock.service;
+package com.glanz.mock.service;
 
 import org.springframework.stereotype.Service;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package com.example.mock;
+package com.glanz.mock;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

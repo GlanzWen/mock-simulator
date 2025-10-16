@@ -1,6 +1,6 @@
-package com.example.mock.controller;
+package com.glanz.mock.controller;
 
-import com.example.mock.service.MockRuleService;
+import com.glanz.mock.service.MockRuleService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import javax.servlet.http.HttpServletRequest;

@@ -1,4 +1,4 @@
-package com.example.mock.controller;
+package com.glanz.mock.controller;
 
 import org.springframework.http.*;
 import org.springframework.web.bind.annotation.*;
